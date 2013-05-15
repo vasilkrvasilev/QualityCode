@@ -1,0 +1,8 @@
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\Refactoring\12. Refactoring-Homework\bin\Debug\Matrix.xml
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\Refactoring\12. Refactoring-Homework\bin\Debug\Matrix.exe
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\Refactoring\12. Refactoring-Homework\bin\Debug\Matrix.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\Refactoring\12. Refactoring-Homework\bin\Debug\log4net.dll
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\Refactoring\12. Refactoring-Homework\bin\Debug\log4net.xml
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\Refactoring\12. Refactoring-Homework\obj\x86\Debug\Matrix.exe
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\Refactoring\12. Refactoring-Homework\obj\x86\Debug\Matrix.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\Refactoring\12. Refactoring-Homework\obj\x86\Debug\Matrix.csprojResolveAssemblyReference.cache

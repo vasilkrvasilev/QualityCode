@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Matrix</name>
+    </assembly>
+    <members>
+        <member name="T:Matrix.Cell">
+            <summary>
+            Represent a cell from two dimentional matrix
+            </summary>
+        </member>
+        <member name="M:Matrix.Cell.#ctor(System.Int32,System.Int32)">
+            <summary>
+            Create a cell
+            </summary>
+            <param name="row">Cell's row in the matrix</param>
+            <param name="column">Cell's column in the matrix</param>
+        </member>
+        <member name="P:Matrix.Cell.Row">
+            <summary>
+            Represent the cell's row in the matrix
+            </summary>
+            <exception cref="T:System.ArgumentException">
+            If the value of the row is negative</exception>
+        </member>
+        <member name="P:Matrix.Cell.Column">
+            <summary>
+            Represent the cell's column in the matrix
+            </summary>
+            /// <exception cref="T:System.ArgumentException">
+            If the value of the column is negative</exception>
+        </member>
+        <member name="T:Matrix.ConsoleIO">
+            <summary>
+            Read the input and print the output on the console
+            </summary>
+        </member>
+        <member name="M:Matrix.ConsoleIO.ReadInput">
+            <summary>
+            Read and verify the input from the console
+            </summary>
+            <remarks>Ask for a number till a valid one is entered</remarks>
+            <returns>Number in the interval [MIN_SIZE, MAX_SIZE]</returns>
+        </member>
+        <member name="M:Matrix.ConsoleIO.PrintMatrix(System.Int32[0:,0:])">
+            <summary>
+            Print on the console string representation of a matrix
+            </summary>
+            <param name="matrix">Matrix to be print</param>
+            <exception cref="T:System.ArgumentNullException">
+            If the matrix to be print is not initialized</exception>
+            <returns>String representation of the matrix</returns>
+        </member>
+        <member name="T:Matrix.Direction">
+            <summary>
+            Represent the direction of traversal
+            </summary>
+        </member>
+        <member name="M:Matrix.Direction.#ctor(System.Int32,System.Int32)">
+            <summary>
+            Create direction to move
+            </summary>
+            <param name="x">Move on x (rows)</param>
+            <param name="y">Move on y (columns)</param>
+        </member>
+        <member name="P:Matrix.Direction.X">
+            <summary>
+            Represent direction of traversal on x (row)
+            </summary>
+        </member>
+        <member name="P:Matrix.Direction.Y">
+            <summary>
+            Represent direction of traversal on y (column)
+            </summary>
+        </member>
+        <member name="T:Matrix.Log4Net">
+            <summary>
+            Show exception messages using Log4Net
+            </summary>
+        </member>
+        <member name="M:Matrix.Log4Net.ShowExceptions">
+            <summary>
+            Show ArgumentNullException and ArgumentException messages using Log4Net.
+            </summary>
+        </member>
+        <member name="T:Matrix.PossibleDirections">
+            <summary>
+            Represent all possible directions to traverse
+            </summary>
+        </member>
+        <member name="M:Matrix.PossibleDirections.Generate">
+            <summary>
+            Generate all possible directions to traverse
+            </summary>
+            <returns>Array with all possible directions to traverse</returns>
+        </member>
+        <member name="M:Matrix.PossibleDirections.GetInitialDirection">
+            <summary>
+            Generate initial (start) direction to traverse
+            </summary>
+            <returns>Initial (start) direction to traverse</returns>
+        </member>
+        <member name="M:Matrix.PossibleDirections.GetNextPossibleDirection(Matrix.Direction)">
+            <summary>
+            Generate next possible direction to traverse
+            </summary>
+            <param name="direction">Current direction to traverse</param>
+            <returns>Next possible direction to traverse</returns>
+        </member>
+        <member name="T:Matrix.MatrixTraversal">
+            <summary>
+            Traverse a matrix and assign its cells
+            </summary>
+        </member>
+        <member name="M:Matrix.MatrixTraversal.FindEmptyCell(System.Int32[0:,0:])">
+            <summary>
+            Search for unassigned cell
+            </summary>
+            <param name="matrix">Matrix, where the cell is searched</param>
+            <exception cref="T:System.ArgumentNullException">
+            If we try to search in matrix, which is not initialized</exception>
+            <returns>The first unassigned cell or null if thre is no such</returns>
+        </member>
+        <member name="M:Matrix.MatrixTraversal.FillMatrix(System.Int32[0:,0:],System.Int32,Matrix.Cell,Matrix.Direction)">
+            <summary>
+            Assign cells in a matrix
+            </summary>
+            <param name="matrix">Matrix, which cells are going to be assigned</param>
+            <param name="currentValue">Initial value to assign the first unassigned cell</param>
+            <param name="cell">Initial cell from which start the assigning</param>
+            <param name="direction">Initial direction to traverse the matrix</param>
+            <exception cref="T:System.ArgumentNullException">
+            If there is not initialized input parameter</exception>
+            <exception cref="T:System.ArgumentException">
+            If we try to assign a cell with non-positive value</exception>
+            <returns>Value of last assigned cell</returns>
+        </member>
+        <member name="M:Matrix.MatrixTraversal.IsPath(System.Int32[0:,0:],Matrix.Cell)">
+            <summary>
+            Find if there is unassigned cell around current cell
+            </summary>
+            <param name="matrix">Matrix, where the cell is searched</param>
+            <param name="cell">Cell around which is searching</param>
+            <returns>Is or is not such cell</returns>
+        </member>
+        <member name="M:Matrix.MatrixTraversal.UpdatePossibleDirections(Matrix.Direction[],System.Int32[0:,0:],Matrix.Cell)">
+            <summary>
+            Change all directions which are leading outside the matrix
+            </summary>
+            <param name="possibleDirections">Current possible directions</param>
+            <param name="matrix">Matrix to be traversed</param>
+            <param name="cell">Cell from which is searching direction</param>
+        </member>
+        <member name="M:Matrix.MatrixTraversal.FindDirection(System.Int32[0:,0:],Matrix.Cell,Matrix.Direction)">
+            <summary>
+            Find next possible direction to continue the traversal of a matrix
+            </summary>
+            <param name="matrix">Matrix to be traversed</param>
+            <param name="cell">Cell from which is searching direction</param>
+            <param name="direction">Current direction which could be changed</param>
+            <returns>Next direction to traverse the matrix</returns>
+        </member>
+        <member name="T:Matrix.MatrixTraversalDemo">
+            <summary>
+            Traverse a matrix
+            </summary>
+        </member>
+        <member name="M:Matrix.MatrixTraversalDemo.Main">
+            <summary>
+            Traverse a matrix using console for input/output
+            </summary>
+            <remarks>Use Log4Net to show the exeption messages. 
+            The method Log4Net.ShowExceptions is designed to cause 
+            ArgumentNullException for demonstration</remarks>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GameFifteen</name>
+    </assembly>
+    <members>
+        <member name="T:GameFifteen.Cell">
+            <summary>
+            Represent a cell from two dimentional matrix
+            </summary>
+        </member>
+        <member name="P:GameFifteen.Cell.Row">
+            <summary>
+            Represent the cell's row in the matrix
+            </summary>
+        </member>
+        <member name="P:GameFifteen.Cell.Column">
+            <summary>
+            Represent the cell's column in the matrix
+            </summary>
+        </member>
+        <member name="T:GameFifteen.ConsoleIO">
+            <summary>
+            Read the input and print the output on the console
+            </summary>
+        </member>
+        <member name="M:GameFifteen.ConsoleIO.ReadInput">
+            <summary>
+            Read and verify the input from the console
+            </summary>
+            <returns>Number in the interval [MIN_SIZE, MAX_SIZE]</returns>
+        </member>
+        <member name="M:GameFifteen.ConsoleIO.PrintMatrix(System.Int32[0:,0:])">
+            <summary>
+            Print on the console string representation of a matrix
+            </summary>
+            <param name="matrix">Matrix to be print</param>
+            <returns>String representation of the matrix</returns>
+        </member>
+        <member name="T:GameFifteen.Direction">
+            <summary>
+            Represent the direction of traversal
+            </summary>
+        </member>
+        <member name="P:GameFifteen.Direction.X">
+            <summary>
+            Represent direction of traversal on x (row)
+            </summary>
+        </member>
+        <member name="P:GameFifteen.Direction.Y">
+            <summary>
+            Represent direction of traversal on y (column)
+            </summary>
+        </member>
+        <member name="T:GameFifteen.Log4Net">
+            <summary>
+            Show exception messages using Log4Net
+            </summary>
+        </member>
+        <member name="M:GameFifteen.Log4Net.ShowExceptions">
+            <summary>
+            Show ArgumentNullException messages using Log4Net
+            </summary>
+        </member>
+        <member name="T:GameFifteen.PossibleDirections">
+            <summary>
+            Represent all possible directions to traverse
+            </summary>
+        </member>
+        <member name="M:GameFifteen.PossibleDirections.Generate">
+            <summary>
+            Generate all possible directions to traverse
+            </summary>
+            <returns>Array with all possible directions to traverse</returns>
+        </member>
+        <member name="M:GameFifteen.PossibleDirections.GetInitialDirection">
+            <summary>
+            Generate initial (start) direction to traverse
+            </summary>
+            <returns>Initial (start) direction to traverse</returns>
+        </member>
+        <member name="M:GameFifteen.PossibleDirections.GetNextPossibleDirection(GameFifteen.Direction)">
+            <summary>
+            Generate next possible direction to traverse
+            </summary>
+            <param name="direction">Current direction to traverse</param>
+            <returns>Next possible direction to traverse</returns>
+        </member>
+        <member name="T:GameFifteen.MatrixTraversal">
+            <summary>
+            Traverse a matrix and assign its cells
+            </summary>
+        </member>
+        <member name="M:GameFifteen.MatrixTraversal.FindEmptyCell(System.Int32[0:,0:])">
+            <summary>
+            Search for unassigned cell
+            </summary>
+            <param name="matrix">Matrix, where the cell is searched</param>
+            <returns>The first unassigned cell or null if thre is no such</returns>
+        </member>
+        <member name="M:GameFifteen.MatrixTraversal.FillMatrix(System.Int32[0:,0:],System.Int32,GameFifteen.Cell,GameFifteen.Direction)">
+            <summary>
+            Assign cells in a matrix
+            </summary>
+            <param name="matrix">Matrix, which cells are going to be assigned</param>
+            <param name="currentValue">Initial value to assign the first unassigned cell</param>
+            <param name="cell">Initial cell from which start the assigning</param>
+            <param name="direction">Initial direction to traverse the matrix</param>
+            <returns>Value of last assigned cell</returns>
+        </member>
+        <member name="M:GameFifteen.MatrixTraversal.IsPath(System.Int32[0:,0:],GameFifteen.Cell)">
+            <summary>
+            Find if there is unassigned cell around current cell
+            </summary>
+            <param name="matrix">Matrix, where the cell is searched</param>
+            <param name="cell">Cell around which is searching</param>
+            <returns>Is or is not such cell</returns>
+        </member>
+        <member name="M:GameFifteen.MatrixTraversal.UpdatePossibleDirections(GameFifteen.Direction[],System.Int32[0:,0:],GameFifteen.Cell)">
+            <summary>
+            Change all directions which are leading outside the matrix
+            </summary>
+            <param name="possibleDirections">Current possible directions</param>
+            <param name="matrix">Matrix to be traversed</param>
+            <param name="cell">Cell from which is searching direction</param>
+        </member>
+        <member name="M:GameFifteen.MatrixTraversal.FindDirection(System.Int32[0:,0:],GameFifteen.Cell,GameFifteen.Direction)">
+            <summary>
+            Find next possible direction to continue the traversal of a matrix
+            </summary>
+            <param name="matrix">Matrix to be traversed</param>
+            <param name="cell">Cell from which is searching direction</param>
+            <param name="direction">Current direction which could be changed</param>
+            <returns>Next direction to traverse the matrix</returns>
+        </member>
+        <member name="T:GameFifteen.MatrixTraversalDemo">
+            <summary>
+            Traverse a matrix
+            </summary>
+        </member>
+        <member name="M:GameFifteen.MatrixTraversalDemo.Main">
+            <summary>
+            Traverse a matrix using console for input/output
+            </summary>
+        </member>
+    </members>
+</doc>
