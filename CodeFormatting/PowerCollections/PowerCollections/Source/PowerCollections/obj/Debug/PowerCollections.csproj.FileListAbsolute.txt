@@ -1,0 +1,6 @@
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\PowerCollections\PowerCollections\Source\PowerCollections\bin\Debug\PowerCollections.dll.config
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\PowerCollections\PowerCollections\Source\PowerCollections\bin\Debug\PowerCollections.dll
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\PowerCollections\PowerCollections\Source\PowerCollections\bin\Debug\PowerCollections.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\PowerCollections\PowerCollections\Source\PowerCollections\obj\Debug\PowerCollections.csprojResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\PowerCollections\PowerCollections\Source\PowerCollections\obj\Debug\PowerCollections.dll
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\PowerCollections\PowerCollections\Source\PowerCollections\obj\Debug\PowerCollections.pdb

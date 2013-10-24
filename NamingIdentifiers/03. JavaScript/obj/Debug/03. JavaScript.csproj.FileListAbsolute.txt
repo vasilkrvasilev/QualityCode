@@ -1,0 +1,6 @@
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\NamingIdentifiers\03. JavaScript\bin\Debug\_03.JavaScript.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\NamingIdentifiers\03. JavaScript\obj\Debug\03. JavaScript.csprojResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\NamingIdentifiers\03. JavaScript\bin\Debug\_03.JavaScript.exe
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\NamingIdentifiers\03. JavaScript\bin\Debug\_03.JavaScript.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\NamingIdentifiers\03. JavaScript\obj\Debug\_03.JavaScript.exe
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\NamingIdentifiers\03. JavaScript\obj\Debug\_03.JavaScript.pdb

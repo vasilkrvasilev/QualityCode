@@ -1,0 +1,6 @@
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\HighQualityClasses\03. InheritancePolymorphism\bin\Debug\_03.InheritancePolymorphism.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\HighQualityClasses\03. InheritancePolymorphism\bin\Debug\_03.InheritancePolymorphism.exe
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\HighQualityClasses\03. InheritancePolymorphism\bin\Debug\_03.InheritancePolymorphism.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\HighQualityClasses\03. InheritancePolymorphism\obj\Debug\03. InheritancePolymorphism.csprojResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\HighQualityClasses\03. InheritancePolymorphism\obj\Debug\_03.InheritancePolymorphism.exe
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\HighQualityClasses\03. InheritancePolymorphism\obj\Debug\_03.InheritancePolymorphism.pdb

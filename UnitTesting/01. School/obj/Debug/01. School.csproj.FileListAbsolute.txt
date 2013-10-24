@@ -1,0 +1,6 @@
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\UnitTesting\01. School\bin\Debug\_01.School.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\UnitTesting\01. School\obj\Debug\01. School.csprojResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\UnitTesting\01. School\bin\Debug\_01.School.exe
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\UnitTesting\01. School\bin\Debug\_01.School.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\UnitTesting\01. School\obj\Debug\_01.School.exe
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\UnitTesting\01. School\obj\Debug\_01.School.pdb

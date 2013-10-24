@@ -1,0 +1,6 @@
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\NamingIdentifiers\02. RefactorHauptKlasse\bin\Debug\_02.RefactorHauptKlasse.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\NamingIdentifiers\02. RefactorHauptKlasse\bin\Debug\_02.RefactorHauptKlasse.exe
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\NamingIdentifiers\02. RefactorHauptKlasse\bin\Debug\_02.RefactorHauptKlasse.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\NamingIdentifiers\02. RefactorHauptKlasse\obj\Debug\02. RefactorHauptKlasse.csprojResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\NamingIdentifiers\02. RefactorHauptKlasse\obj\Debug\_02.RefactorHauptKlasse.exe
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\NamingIdentifiers\02. RefactorHauptKlasse\obj\Debug\_02.RefactorHauptKlasse.pdb

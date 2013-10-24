@@ -1,0 +1,6 @@
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\ControlFlowStructures\01. RefactorChef\bin\Debug\_01.RefactorChef.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\ControlFlowStructures\01. RefactorChef\bin\Debug\_01.RefactorChef.exe
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\ControlFlowStructures\01. RefactorChef\bin\Debug\_01.RefactorChef.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\ControlFlowStructures\01. RefactorChef\obj\Debug\01. RefactorChef.csprojResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\ControlFlowStructures\01. RefactorChef\obj\Debug\_01.RefactorChef.exe
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\ControlFlowStructures\01. RefactorChef\obj\Debug\_01.RefactorChef.pdb

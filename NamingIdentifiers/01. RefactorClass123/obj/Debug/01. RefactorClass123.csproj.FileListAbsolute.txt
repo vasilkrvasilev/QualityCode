@@ -1,0 +1,6 @@
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\NamingIdentifiers\01. RefactorClass123\bin\Debug\_01.RefactorClass123.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\NamingIdentifiers\01. RefactorClass123\bin\Debug\_01.RefactorClass123.exe
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\NamingIdentifiers\01. RefactorClass123\bin\Debug\_01.RefactorClass123.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\NamingIdentifiers\01. RefactorClass123\obj\Debug\01. RefactorClass123.csprojResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\NamingIdentifiers\01. RefactorClass123\obj\Debug\_01.RefactorClass123.exe
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\NamingIdentifiers\01. RefactorClass123\obj\Debug\_01.RefactorClass123.pdb

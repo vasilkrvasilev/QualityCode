@@ -1,0 +1,12 @@
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\HQC-2013-Calendar-System-Problem (2)\ConsoleApplication1\bin\Debug\PowerCollections.dll
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\HQC-2013-Calendar-System-Problem (2)\ConsoleApplication1\obj\Debug\Calendar.csprojResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\HQC-2013-Calendar-System-Problem (2)\ConsoleApplication1\bin\Debug\Calendar.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\HQC-2013-Calendar-System-Problem (2)\ConsoleApplication1\bin\Debug\Calendar.exe
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\HQC-2013-Calendar-System-Problem (2)\ConsoleApplication1\bin\Debug\Calendar.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\HQC-2013-Calendar-System-Problem (2)\ConsoleApplication1\obj\Debug\Calendar.exe
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\HQC-2013-Calendar-System-Problem (2)\ConsoleApplication1\obj\Debug\Calendar.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\HQC-2013-Calendar-System-Problem (2)\ConsoleApplication1\bin\Debug\Calendar.XML
+G:\Documents\ProjectsC#\KPK\HQC-2013-Calendar-System-Problem (2)\ConsoleApplication1\bin\Debug\Calendar.exe.config
+G:\Documents\ProjectsC#\KPK\HQC-2013-Calendar-System-Problem (2)\ConsoleApplication1\bin\Debug\Calendar.XML
+G:\Documents\ProjectsC#\KPK\HQC-2013-Calendar-System-Problem (2)\ConsoleApplication1\obj\Debug\Calendar.exe
+G:\Documents\ProjectsC#\KPK\HQC-2013-Calendar-System-Problem (2)\ConsoleApplication1\obj\Debug\Calendar.pdb

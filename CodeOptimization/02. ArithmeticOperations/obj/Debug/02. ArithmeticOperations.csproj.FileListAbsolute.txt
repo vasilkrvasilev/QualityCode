@@ -1,0 +1,6 @@
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\CodeOptimization\02. ArithmeticOperations\bin\Debug\_02.ArithmeticOperations.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\CodeOptimization\02. ArithmeticOperations\bin\Debug\_02.ArithmeticOperations.exe
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\CodeOptimization\02. ArithmeticOperations\bin\Debug\_02.ArithmeticOperations.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\CodeOptimization\02. ArithmeticOperations\obj\Debug\02. ArithmeticOperations.csprojResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\CodeOptimization\02. ArithmeticOperations\obj\Debug\_02.ArithmeticOperations.exe
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\CodeOptimization\02. ArithmeticOperations\obj\Debug\_02.ArithmeticOperations.pdb

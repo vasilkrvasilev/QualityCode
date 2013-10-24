@@ -1,0 +1,6 @@
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\HighQualityMethods\HighQualityMethods\bin\Debug\HighQualityMethods.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\HighQualityMethods\HighQualityMethods\bin\Debug\HighQualityMethods.exe
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\HighQualityMethods\HighQualityMethods\bin\Debug\HighQualityMethods.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\HighQualityMethods\HighQualityMethods\obj\Debug\HighQualityMethods.csprojResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\HighQualityMethods\HighQualityMethods\obj\Debug\HighQualityMethods.exe
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\HighQualityMethods\HighQualityMethods\obj\Debug\HighQualityMethods.pdb

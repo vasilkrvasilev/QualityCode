@@ -1,0 +1,172 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DocumentationComments</name>
+    </assembly>
+    <members>
+        <member name="T:Telerik.ILS.Common.StringExtensions">
+            <summary>
+            Provide extension methods to convert, extract and modify string value
+            </summary>
+        </member>
+        <member name="F:Telerik.ILS.Common.StringExtensions.TRUE_VALUE">
+            <summary>
+            This readonly constant contains predefined string values evaluated as true
+            </summary>
+            <seealso cref="M:Telerik.ILS.Common.StringExtensions.ToBoolean(System.String)"/>
+        </member>
+        <member name="F:Telerik.ILS.Common.StringExtensions.BULGARIAN_LETTERS">
+            <summary>
+            This readonly constant contains bulgarian alphabet
+            </summary>
+            <seealso cref="M:Telerik.ILS.Common.StringExtensions.ConvertCyrillicToLatinLetters(System.String)"/>
+        </member>
+        <member name="F:Telerik.ILS.Common.StringExtensions.LATIN_REPRESENTATION_OF_BULGARIAN_LETTERS">
+            <summary>
+            This readonly constant contains latin representation of bulgarian alphabet
+            </summary>
+            <seealso cref="M:Telerik.ILS.Common.StringExtensions.ConvertCyrillicToLatinLetters(System.String)"/>
+        </member>
+        <member name="F:Telerik.ILS.Common.StringExtensions.LATIN_LETTERS">
+            <summary>
+            This readonly constant contains latin alphabet
+            </summary>
+            <seealso cref="M:Telerik.ILS.Common.StringExtensions.ConvertLatinToCyrillicKeyboard(System.String)"/>
+        </member>
+        <member name="F:Telerik.ILS.Common.StringExtensions.BULGARIAN_REPRESENTATION_OF_LATIN_KEYBOARD">
+            <summary>
+            This readonly constant contains bulgarian representation of latin alphabet
+            </summary>
+            <seealso cref="M:Telerik.ILS.Common.StringExtensions.ConvertLatinToCyrillicKeyboard(System.String)"/>
+        </member>
+        <member name="F:Telerik.ILS.Common.StringExtensions.FILE_EXTENTION_TO_CONTENT_TYPE">
+            <summary>
+            This readonly constant contains representation of file extentions
+            </summary>
+            <seealso cref="M:Telerik.ILS.Common.StringExtensions.ToContentType(System.String)"/>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToMd5Hash(System.String)">
+            <summary>
+            Convert string (char by char) in hexadecimal format
+            </summary>
+            <param name="input">String value to be converted</param>
+            <returns>Converted string value</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToBoolean(System.String)">
+            <summary>
+            Convert string value to boolean value
+            </summary>
+            <param name="input">String value to be converted</param>
+            <seealso cref="F:Telerik.ILS.Common.StringExtensions.TRUE_VALUE"/>
+            <returns>Converted string value</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToShort(System.String)">
+            <summary>
+            Convert string value to short value
+            </summary>
+            <param name="input">String value to be converted</param>
+            <returns>Converted string value or 0</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToInteger(System.String)">
+            <summary>
+            Convert string value to integer value
+            </summary>
+            <param name="input">String value to be converted</param>
+            <returns>Converted string value or 0</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToLong(System.String)">
+            <summary>
+            Convert string value to long value
+            </summary>
+            <param name="input">String value to be converted</param>
+            <returns>Converted string value or 0</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToDateTime(System.String)">
+            <summary>
+            Convert string value to DateTime value
+            </summary>
+            <param name="input">String value to be converted</param>
+            <returns>Converted string value or 1.1.0001 00:00:00</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.CapitalizeFirstLetter(System.String)">
+            <summary>
+            Change the first char of string value to upercase
+            </summary>
+            <param name="input">String value to be changed</param>
+            <returns>Changed string value</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.GetStringBetween(System.String,System.String,System.String,System.Int32)">
+            <summary>
+            Extract substring from string value
+            </summary>
+            <param name="input">String value from which is the substring exracted</param>
+            <param name="startString">Marks the beginning of the substring to be exracted</param>
+            <param name="endString">Marks the end of the substring to be exracted</param>
+            <param name="startFrom">Marks the position in string value, from which start the search for a substring</param>
+            <returns>Extracted substring or string.Empty</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ConvertCyrillicToLatinLetters(System.String)">
+            <summary>
+            Convert cyrillic letters of string value to its latin representation
+            </summary>
+            <param name="input">String value to be converted</param>
+            <seealso cref="F:Telerik.ILS.Common.StringExtensions.BULGARIAN_LETTERS"/>
+            <seealso cref="F:Telerik.ILS.Common.StringExtensions.LATIN_REPRESENTATION_OF_BULGARIAN_LETTERS"/>
+            <returns>Converted string value</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ConvertLatinToCyrillicKeyboard(System.String)">
+            <summary>
+            Convert latin letters of string value to its cyrillic representation
+            </summary>
+            <param name="input">String value to be converted</param>
+            <seealso cref="F:Telerik.ILS.Common.StringExtensions.LATIN_LETTERS"/>
+            <seealso cref="F:Telerik.ILS.Common.StringExtensions.BULGARIAN_REPRESENTATION_OF_LATIN_KEYBOARD"/>
+            <returns>Converted string value</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToValidUsername(System.String)">
+            <summary>
+            Replace cyrillic letters in string value to valid username
+            </summary>
+            <param name="input">String value to be changed</param>
+            <seealso cref="M:Telerik.ILS.Common.StringExtensions.ConvertCyrillicToLatinLetters(System.String)"/>
+            <returns>Valid username</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToValidLatinFileName(System.String)">
+            <summary>
+            Replace cyrillic letters in string value to valid filename
+            </summary>
+            <param name="input">String value to be changed</param>
+            <seealso cref="M:Telerik.ILS.Common.StringExtensions.ConvertCyrillicToLatinLetters(System.String)"/>
+            <returns>Valid filename</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.GetFirstCharacters(System.String,System.Int32)">
+            <summary>
+            Extract substring from string value
+            </summary>
+            <param name="input">String value from which is the substring exracted</param>
+            <param name="charsCount">Length of the extracted substring in chars</param>
+            <returns>Extracted substring</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.GetFileExtension(System.String)">
+            <summary>
+            Extract file extention from string value
+            </summary>
+            <param name="fileName">String value from which is the file extention exracted</param>
+            <returns>Extracted file extention or string.Empty</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToContentType(System.String)">
+            <summary>
+            Convert file extention to content type
+            </summary>
+            <param name="fileExtension">File extention to be converted</param>
+            <returns>Converted file extention</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToByteArray(System.String)">
+            <summary>
+            Convert string value (char by char) to array of bytes
+            </summary>
+            <param name="input">String value to be converted</param>
+            <returns>Converted string value</returns>
+        </member>
+    </members>
+</doc>

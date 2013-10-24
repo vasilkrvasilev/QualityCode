@@ -1,0 +1,8 @@
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\CodeFormatting\CodeFormatting\bin\Debug\CodeFormatting.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\CodeFormatting\CodeFormatting\obj\Debug\CodeFormatting.csprojResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\CodeFormatting\CodeFormatting\bin\Debug\CodeFormatting.exe
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\CodeFormatting\CodeFormatting\bin\Debug\CodeFormatting.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\CodeFormatting\CodeFormatting\bin\Debug\PowerCollections.dll
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\CodeFormatting\CodeFormatting\bin\Debug\PowerCollections.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\CodeFormatting\CodeFormatting\obj\Debug\CodeFormatting.exe
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\CodeFormatting\CodeFormatting\obj\Debug\CodeFormatting.pdb

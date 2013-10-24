@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Expressions", "01. Expressions\01. Expressions.csproj", "{945A50DF-C13B-4875-B6AE-A9B761AC5F75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Variables", "02. Variables\02. Variables.csproj", "{AE9B23BE-6394-4971-9B75-FB9E98D7524F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{945A50DF-C13B-4875-B6AE-A9B761AC5F75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{945A50DF-C13B-4875-B6AE-A9B761AC5F75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{945A50DF-C13B-4875-B6AE-A9B761AC5F75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{945A50DF-C13B-4875-B6AE-A9B761AC5F75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE9B23BE-6394-4971-9B75-FB9E98D7524F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE9B23BE-6394-4971-9B75-FB9E98D7524F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE9B23BE-6394-4971-9B75-FB9E98D7524F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE9B23BE-6394-4971-9B75-FB9E98D7524F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

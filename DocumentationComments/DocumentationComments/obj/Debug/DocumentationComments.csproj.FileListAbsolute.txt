@@ -1,0 +1,7 @@
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\DocumentationComments\DocumentationComments\bin\Debug\DocumentationComments.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\DocumentationComments\DocumentationComments\obj\Debug\DocumentationComments.csprojResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\DocumentationComments\DocumentationComments\bin\Debug\DocumentationComments.exe
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\DocumentationComments\DocumentationComments\bin\Debug\DocumentationComments.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\DocumentationComments\DocumentationComments\obj\Debug\DocumentationComments.exe
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\DocumentationComments\DocumentationComments\obj\Debug\DocumentationComments.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\DocumentationComments\DocumentationComments\bin\Debug\DocumentationComments.XML

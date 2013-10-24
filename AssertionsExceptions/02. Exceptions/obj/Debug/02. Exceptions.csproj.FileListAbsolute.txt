@@ -1,0 +1,6 @@
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\AssertionsExceptions\02. Exceptions\bin\Debug\_02.Exceptions.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\AssertionsExceptions\02. Exceptions\bin\Debug\_02.Exceptions.exe
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\AssertionsExceptions\02. Exceptions\bin\Debug\_02.Exceptions.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\AssertionsExceptions\02. Exceptions\obj\Debug\02. Exceptions.csprojResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\AssertionsExceptions\02. Exceptions\obj\Debug\_02.Exceptions.exe
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\AssertionsExceptions\02. Exceptions\obj\Debug\_02.Exceptions.pdb

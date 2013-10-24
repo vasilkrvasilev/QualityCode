@@ -1,0 +1,6 @@
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\UsingVariablesExpressions\01. Expressions\bin\Debug\_01.Expressions.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\UsingVariablesExpressions\01. Expressions\bin\Debug\_01.Expressions.exe
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\UsingVariablesExpressions\01. Expressions\bin\Debug\_01.Expressions.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\UsingVariablesExpressions\01. Expressions\obj\Debug\01. Expressions.csprojResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\UsingVariablesExpressions\01. Expressions\obj\Debug\_01.Expressions.exe
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\UsingVariablesExpressions\01. Expressions\obj\Debug\_01.Expressions.pdb

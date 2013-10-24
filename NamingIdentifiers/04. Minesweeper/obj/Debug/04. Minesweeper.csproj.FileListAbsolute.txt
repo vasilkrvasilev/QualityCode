@@ -1,0 +1,6 @@
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\NamingIdentifiers\04. Minesweeper\bin\Debug\_04.Minesweeper.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\NamingIdentifiers\04. Minesweeper\bin\Debug\_04.Minesweeper.exe
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\NamingIdentifiers\04. Minesweeper\bin\Debug\_04.Minesweeper.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\NamingIdentifiers\04. Minesweeper\obj\Debug\04. Minesweeper.csprojResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\NamingIdentifiers\04. Minesweeper\obj\Debug\_04.Minesweeper.exe
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\NamingIdentifiers\04. Minesweeper\obj\Debug\_04.Minesweeper.pdb

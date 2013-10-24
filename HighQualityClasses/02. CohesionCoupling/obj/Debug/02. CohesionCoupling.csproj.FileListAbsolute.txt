@@ -1,0 +1,6 @@
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\HighQualityClasses\02. CohesionCoupling\bin\Debug\_02.CohesionCoupling.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\HighQualityClasses\02. CohesionCoupling\bin\Debug\_02.CohesionCoupling.exe
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\HighQualityClasses\02. CohesionCoupling\bin\Debug\_02.CohesionCoupling.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\HighQualityClasses\02. CohesionCoupling\obj\Debug\02. CohesionCoupling.csprojResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\HighQualityClasses\02. CohesionCoupling\obj\Debug\_02.CohesionCoupling.exe
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\HighQualityClasses\02. CohesionCoupling\obj\Debug\_02.CohesionCoupling.pdb

@@ -1,0 +1,7 @@
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\11. Test-Driven-Development-Demo-Homework\bin\Debug\Poker.exe
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\11. Test-Driven-Development-Demo-Homework\bin\Debug\Poker.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\11. Test-Driven-Development-Demo-Homework\obj\Debug\Poker.exe
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\11. Test-Driven-Development-Demo-Homework\obj\Debug\Poker.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\11. Test-Driven-Development-Demo-Homework\obj\Debug\Poker.csprojResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\TestDrivenDevelopment\11. Test-Driven-Development-Demo-Homework\obj\Debug\Poker.exe
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\TestDrivenDevelopment\11. Test-Driven-Development-Demo-Homework\obj\Debug\Poker.pdb

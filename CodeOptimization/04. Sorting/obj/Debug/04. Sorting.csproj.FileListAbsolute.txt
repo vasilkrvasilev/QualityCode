@@ -1,0 +1,8 @@
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\CodeOptimization\04. Sorting\bin\Debug\_04.Sorting.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\CodeOptimization\04. Sorting\bin\Debug\_04.Sorting.exe
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\CodeOptimization\04. Sorting\bin\Debug\_04.Sorting.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\CodeOptimization\04. Sorting\bin\Debug\_02.ArithmeticOperations.exe
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\CodeOptimization\04. Sorting\bin\Debug\_02.ArithmeticOperations.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\CodeOptimization\04. Sorting\obj\Debug\04. Sorting.csprojResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\CodeOptimization\04. Sorting\obj\Debug\_04.Sorting.exe
+C:\Users\Vasko\Desktop\ProjectsC#\KPK\CodeOptimization\04. Sorting\obj\Debug\_04.Sorting.pdb
